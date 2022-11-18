@@ -1,0 +1,15 @@
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\bin\Debug\net7.0\switch.exe
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\bin\Debug\net7.0\switch.deps.json
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\bin\Debug\net7.0\switch.runtimeconfig.json
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\bin\Debug\net7.0\switch.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\bin\Debug\net7.0\switch.pdb
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\switch.csproj.AssemblyReference.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\switch.AssemblyInfoInputs.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\switch.AssemblyInfo.cs
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\switch.csproj.CoreCompileInputs.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\switch.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\refint\switch.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\switch.pdb
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\switch.genruntimeconfig.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\switch\obj\Debug\net7.0\ref\switch.dll

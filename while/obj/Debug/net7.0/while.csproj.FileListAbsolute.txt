@@ -1,0 +1,15 @@
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\bin\Debug\net7.0\while.exe
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\bin\Debug\net7.0\while.deps.json
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\bin\Debug\net7.0\while.runtimeconfig.json
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\bin\Debug\net7.0\while.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\bin\Debug\net7.0\while.pdb
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\while.csproj.AssemblyReference.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\while.AssemblyInfoInputs.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\while.AssemblyInfo.cs
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\while.csproj.CoreCompileInputs.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\while.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\refint\while.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\while.pdb
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\while.genruntimeconfig.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\while\obj\Debug\net7.0\ref\while.dll

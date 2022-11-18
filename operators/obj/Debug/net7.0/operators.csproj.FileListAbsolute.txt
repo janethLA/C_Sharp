@@ -1,0 +1,15 @@
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\operators.csproj.AssemblyReference.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\operators.AssemblyInfoInputs.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\operators.AssemblyInfo.cs
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\operators.csproj.CoreCompileInputs.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\bin\Debug\net7.0\operators.exe
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\bin\Debug\net7.0\operators.deps.json
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\bin\Debug\net7.0\operators.runtimeconfig.json
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\bin\Debug\net7.0\operators.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\bin\Debug\net7.0\operators.pdb
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\operators.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\refint\operators.dll
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\operators.pdb
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\operators.genruntimeconfig.cache
+D:\NICE\TRAINING\DEV\Tareas\C_Sharp\operators\obj\Debug\net7.0\ref\operators.dll
